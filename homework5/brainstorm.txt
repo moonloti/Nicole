@@ -1,0 +1,23 @@
+File: brainstorm.txt
+1. 5 interesting topics:
+    Stellar Evolution (stars' life cycles)
+    Black Holes and Neutron Stars
+    Nuclear Fusion and Energy
+    Exoplanet Discovery
+    Dark Matter and Dark Energy
+
+2. 3 topics with datasets/sources:
+    Topic 1 - Dark Matter & Dark Energy: https://www.darkenergysurvey.org/the-des-project/data-access/
+    Topic 2 - Black Holes and Neutron Stars: https://www.home.cern/science/physics/dark-matter
+    Topic 3 - Stellar Evolution: https://www.cfa.harvard.edu/news/most-precise-accounting-yet-dark-energy-and-dark-matter
+
+3. Python skills to use:
+    Functions
+    Conditionals
+    Lists/dictionaries
+    Loops
+    GitHub/version control
+
+4. 2 possible project ideas:
+    Dream version (ambitious): Build a Python program that pulls real galaxy rotation curve data, plots the expected velocity based on visible matter vs. the actual observed velocity, and visually demonstrates the "missing mass" gap that proves dark matter exists — all displayed as an interactive graph.
+    Simple version (realistic in a few weeks): Write a Python script that takes a galaxy's visible mass as input and uses a function to calculate how much dark matter it likely contains based on a known ratio, then prints out a summary comparing visible vs. total estimated mass.
